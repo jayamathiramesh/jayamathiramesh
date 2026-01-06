@@ -39,7 +39,8 @@ Build impactful AI-driven applications
 Strengthen expertise in applied ML and analytics
 
 Grow as both a technologist and entrepreneur
-**## Connect with Me**
+
+**🤝Connect with Me**
  I’m always open to collaboration, learning, and discussions around technology, analytics, and startups.
 - [email] jayamathiramesh@gmail.com
 - [linkedin] https://www.linkedin.com/in/jayamathi-ramesh-2993s/
